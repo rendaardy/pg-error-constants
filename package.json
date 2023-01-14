@@ -2,5 +2,11 @@
   "name": "pg-error-constants",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "LinusU/pg-error-constants"
+  "repository": "LinusU/pg-error-constants",
+  "main": "index.js",
+  "exports": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
