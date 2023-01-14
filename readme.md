@@ -5,13 +5,13 @@ PostgresQL error constants for use with Node.js. Use these to avoid code like `i
 ## Installation
 
 ```sh
-npm install --save pg-error-constants
+npm install --save @renda_ardy/pg-error-constants
 ```
 
 ## Usage
 
 ```js
-const { UNIQUE_VIOLATION } = require('pg-error-constants')
+const { UNIQUE_VIOLATION } = require('@renda_ardy/pg-error-constants')
 
 // ...
   .catch((err) => {

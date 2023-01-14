@@ -2,7 +2,7 @@
   "name": "@renda_ardy/pg-error-constants",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "LinusU/pg-error-constants",
+  "repository": "rendaardy/pg-error-constants",
   "main": "index.js",
   "exports": "index.js",
   "types": "index.d.ts",
