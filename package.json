@@ -1,5 +1,5 @@
 {
-  "name": "pg-error-constants",
+  "name": "@rendaardy/pg-error-constants",
   "version": "1.0.0",
   "license": "MIT",
   "repository": "LinusU/pg-error-constants",
