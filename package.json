@@ -1,6 +1,6 @@
 {
   "name": "@renda_ardy/pg-error-constants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "rendaardy/pg-error-constants",
   "main": "index.js",
